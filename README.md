@@ -1,16 +1,19 @@
-## Hi there 👋
+# Alex Wasley
 
-<!--
-**aw24aaq/aw24aaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Sc. Student at University of Hertfordshire Studying Computer Science 
 
-Here are some ideas to get you started:
+#### Languages / Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| HTML      |
+|     4| SQL       |
+
+## Solo Projects
+Running Tracker / Calculator (15/12/2025 - 03/01/2026)
+
+## Team Projects
+Enigma Chess Engine (01/01/2025 - 26/03/2025)
+- Over the three and a bit months that the project was live I contrubited to making the timer
