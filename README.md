@@ -33,7 +33,11 @@ Enigma Chess Engine - (01/01/2025 - 26/03/2025)
 - Over the three and a half months that the project was active, I contributed to the development of the project’s timer and helped create the design concepts. The initial designs were produced using Figma. [Figma interactive Prototype:](https://www.figma.com/proto/mSfgbX5TX1UXX5q94VlIkY/En-Passant?node-id=53-171&starting-point-node-id=53%3A171&t=csjMVub17oEsUshQ-1)
   
 ## Skills (Outside Programming)
-Excel
-Powerpoint 
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
 
 ## Socials
