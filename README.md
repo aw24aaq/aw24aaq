@@ -34,7 +34,7 @@ Enigma Chess Engine - (01/01/2025 - 26/03/2025)
 
 This is one of the figma designs for the time:
 
-<img width="137" height="68" alt="image" src="https://github.com/user-attachments/assets/def1c4d0-cf17-4e6b-8fef-132620a587b3" />
+<img width="116" height="62" alt="image" src="https://github.com/user-attachments/assets/d9a731c0-052c-4a46-824d-426a84debe01" />
 
 This the the timer count down from 5 min in the program:
 
