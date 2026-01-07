@@ -16,10 +16,15 @@
 Running Tracker / Calculator - (15/12/2025 - 03/01/2026)
 - During the Christmas break, I set myself a small personal project to further develop the skills I learned in the practical sessions and apply them to an area I am passionate about.
 
+
 This is the display window for the program:
+
 <img width = "344" height = "289" alt = "image" src="https://github.com/user-attachments/assets/2001c7f7-1cae-483b-9252-6e0199220082" />
 
+
+
 This is the saved text file version of the program:
+
 <img width="344" height="289" alt="image" src="https://github.com/user-attachments/assets/67fd9728-07c1-438b-9da5-5ac7811c1fdc" />
 
 ### Next Steps
