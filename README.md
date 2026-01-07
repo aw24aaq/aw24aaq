@@ -1,4 +1,4 @@
-# Alex Wasley
+# Alex Wasley 👋
 
 ### B.Sc. Student at University of Hertfordshire Studying Computer Science 
 
