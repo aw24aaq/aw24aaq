@@ -2,17 +2,15 @@
 
 ### B.Sc. Student at University of Hertfordshire Studying Computer Science 
 
-#### Languages / Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+#### Languages
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| HTML      |
-|     4| SQL       |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ## Solo Projects
 Running Tracker / Calculator - (15/12/2025 - 03/01/2026)
@@ -24,7 +22,8 @@ Running Tracker / Calculator - (15/12/2025 - 03/01/2026)
 Enigma Chess Engine - (01/01/2025 - 26/03/2025)
 - Over the three and a half months that the project was active, I contributed to the development of the project’s timer and helped create the design concepts. The initial designs were produced using Figma. [Figma interactive Prototype:](https://www.figma.com/proto/mSfgbX5TX1UXX5q94VlIkY/En-Passant?node-id=53-171&starting-point-node-id=53%3A171&t=csjMVub17oEsUshQ-1)
   
-## Other Skills
+## Skills (Outside Programming)
 Excel
 Powerpoint 
+
 ## Socials
