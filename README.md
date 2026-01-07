@@ -31,7 +31,14 @@ This is the saved text file version of the program:
 ## Team Projects
 Enigma Chess Engine - (01/01/2025 - 26/03/2025)
 - Over the three and a half months that the project was active, I contributed to the development of the project’s timer and helped create the design concepts. The initial designs were produced using Figma. [Figma interactive Prototype:](https://www.figma.com/proto/mSfgbX5TX1UXX5q94VlIkY/En-Passant?node-id=53-171&starting-point-node-id=53%3A171&t=csjMVub17oEsUshQ-1)
-  
+
+This is one of the figma designs for the time:
+
+
+This the the timer count down from 4:60:
+
+<img width="139" height="79" alt="image" src="https://github.com/user-attachments/assets/efa00e4d-fb2f-4da6-b9b6-f9d96a23fffa" />
+
 ## Skills (Outside Programming)
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
