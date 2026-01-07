@@ -16,4 +16,6 @@ Running Tracker / Calculator (15/12/2025 - 03/01/2026)
 
 ## Team Projects
 Enigma Chess Engine (01/01/2025 - 26/03/2025)
-- Over the three and a bit months that the project was live I contrubited to making the timer
+- Over the three and a half months that the project was active, I contributed to the development of the project’s timer and helped create the design concepts. The initial designs were produced using Figma
+
+## Social 
