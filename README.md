@@ -12,7 +12,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ## Solo Projects
-Running Tracker / Calculator - (15/12/2025 - 03/01/2026)
+Running Tracker / Calculator - (15/12/2025 - 03/01/2026) - Python
 - During the Christmas break, I set myself a small personal project to further develop the skills I learned in the practical sessions and apply them to an area I am passionate about.
 
 
@@ -28,7 +28,7 @@ This is the saved text file version of the program:
 - Currently working on converting the application to Java and enabling it to run on a mobile platform.
 
 ## Team Projects
-Enigma Chess Engine - (01/01/2025 - 26/03/2025)
+Enigma Chess Engine - (01/01/2025 - 26/03/2025) - Python
 - Over the three and a half months that the project was active, I contributed to the development of the project’s timer and helped create the design concepts. The initial designs were produced using Figma and are found in the chess repositories at the buttom.
 
 This is the initial design within figma:
