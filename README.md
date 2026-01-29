@@ -31,11 +31,11 @@ This is the saved text file version of the program:
 Enigma Chess Engine - (01/01/2025 - 26/03/2025)
 - Over the three and a half months that the project was active, I contributed to the development of the project’s timer and helped create the design concepts. The initial designs were produced using Figma and are found in the chess repositories at the buttom.
 
-This is one of the figma designs for the time:
+This is the initial design within figma:
 
 <img width="116" height="62" alt="image" src="https://github.com/user-attachments/assets/d9a731c0-052c-4a46-824d-426a84debe01" />
 
-This the the timer count down from 5 min in the program:
+This is the Timer in the Game:
 
 <img width="139" height="79" alt="image" src="https://github.com/user-attachments/assets/efa00e4d-fb2f-4da6-b9b6-f9d96a23fffa" />
 
