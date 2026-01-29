@@ -29,7 +29,7 @@ This is the saved text file version of the program:
 
 ## Team Projects
 Enigma Chess Engine - (01/01/2025 - 26/03/2025)
-- Over the three and a half months that the project was active, I contributed to the development of the project’s timer and helped create the design concepts. The initial designs were produced using Figma. [Figma interactive Prototype:](https://www.figma.com/proto/mSfgbX5TX1UXX5q94VlIkY/En-Passant?node-id=53-171&starting-point-node-id=53%3A171&t=csjMVub17oEsUshQ-1)
+- Over the three and a half months that the project was active, I contributed to the development of the project’s timer and helped create the design concepts. The initial designs were produced using Figma and are found in the chess repositories at the buttom.
 
 This is one of the figma designs for the time:
 
