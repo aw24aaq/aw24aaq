@@ -1,8 +1,9 @@
 # Alex Wasley 👋
 
-### B.Sc. Student at University of Hertfordshire Studying Computer Science 
+- This is my Uni Account
 
-Uni Account 
+### B.Sc. Student at University of Hertfordshire Studying Computer Science 
+ 
 
 #### Languages:
 
