@@ -1,6 +1,6 @@
 # Alex Wasley 👋
 
-- This is my Uni Account
+- This is my Uni Account, there are more project uploaded on my personal account
 
 ### B.Sc. Student at University of Hertfordshire Studying Computer Science 
  
